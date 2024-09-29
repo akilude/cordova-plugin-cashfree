@@ -38,7 +38,7 @@
     "url": "https://github.com/cashfree/cordova-plugin-cashfree/issues"
   },
   "devDependencies": {
-    "@types/node": "^18.6.4",
+    "@types/node": "^18.19.54",
     "typescript": "^4.1.3"
   }
 }
